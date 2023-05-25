@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: #f8f9f4;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #252e38;
+}
+
+.link:hover {
+  background-color: #c0311f;
+  /* padding: 1%; */
+  /* padding-top: 2%; */
+  padding-bottom: 2%;
+}
